@@ -30,19 +30,19 @@ Enabling single byte communication between a Netduino Plus (acting as SPI master
 Enabling transmission of a buffer of data between the Netduino Plus and the STM8S.  This posts also shows how to use software slave chip select.
 ###[STM8S SPL Slave (Part 3) - Making a Netduino Go! Module](http://blog.mark-stevens.co.uk/?p=812)
 Building on the previous two posts, this post looks at what is necessary to build a Netduino Go module using the STM8S microcontroller.
-###[Transmitting Data Using the STM8S SPI Master Mode](http://blog.mark-stevens.co.uk/?p=976")
+###[Transmitting Data Using the STM8S SPI Master Mode](http://blog.mark-stevens.co.uk/?p=976)
 Using the master mode of the SPI interface on the STM8S to control the brightness of 16 LEDs connected to the TLC5940 16-channel PWM controller IC.
-###[Storing data in the data EEPROM area of the STM8S](http://blog.mark-stevens.co.uk/2013/09/storing-data-eeprom-stm8s/")
+###[Storing data in the data EEPROM area of the STM8S](http://blog.mark-stevens.co.uk/2013/09/storing-data-eeprom-stm8s/)
 Writing a small amount of data in the EEPROM area of the STM8S in order that the data can survive a device reset or loss of power.
-###[Using the Auto-Wakeup on the STM8S Discovery Board](http://blog.mark-stevens.co.uk/2014/06/auto-wakeup-stm8s/")
+###[Using the Auto-Wakeup on the STM8S Discovery Board](http://blog.mark-stevens.co.uk/2014/06/auto-wakeup-stm8s/)
 Using the Auto-Wakeup function on the STM8S Discovery board to put the microcontroller to sleep and the wakeup after a predefined time period.
 ###[STM8S Independent Watchdog](http://blog.mark-stevens.co.uk/2014/06/stm8s-independent-watchdog/)
 Adding a watchdog to your code in case of software failure.
 ###[STM8S Beep Function](http://blog.mark-stevens.co.uk/2014/07/stm8s-beep-function/)
 Using the beep function on the STM8S to generate a signal ranging from 500Hz to 32KHz.
-###[STM8S Window Watchdog](http://blog.mark-stevens.co.uk/2014/07/window-watchdog/")
+###[STM8S Window Watchdog](http://blog.mark-stevens.co.uk/2014/07/window-watchdog/)
 Using the Window Watchdog function to detect software failures on the STM8S.
-###[STM8S as an I2C bus master](http://blog.mark-stevens.co.uk/2015/05/stm8s-i2c-master-devices/")
+###[STM8S as an I2C bus master](http://blog.mark-stevens.co.uk/2015/05/stm8s-i2c-master-devices/)
 Create an I2C master device capable of retrieving temperature data from the TMP102 temperature sensor.
 ###[STM8S as an I2C slave device](http://blog.mark-stevens.co.uk/2015/05/stm8s-i2c-slave-device/)
 Creating a simple I2C slave device using the STM8S micrcontroller.
