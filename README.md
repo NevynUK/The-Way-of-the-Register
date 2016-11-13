@@ -26,7 +26,7 @@ Looking at using the up and down counting modes of the STM8S.  We also look at h
 Using a potentiometer and a simple LED circuit we will learn how to read an analog signal using the ADC on the STM8S.
 ###[STM8S SPI Slave](http://blog.mark-stevens.co.uk/?p=791)
 Enabling single byte communication between a Netduino Plus (acting as SPI master) and a STM8S (acting as a SPI slave).
-###[STM8S SPI Slave (Part 2)](]http://blog.mark-stevens.co.uk/?p=800)
+###[STM8S SPI Slave (Part 2)](http://blog.mark-stevens.co.uk/?p=800)
 Enabling transmission of a buffer of data between the Netduino Plus and the STM8S.  This posts also shows how to use software slave chip select.
 ###[STM8S SPL Slave (Part 3) - Making a Netduino Go! Module](http://blog.mark-stevens.co.uk/?p=812)
 Building on the previous two posts, this post looks at what is necessary to build a Netduino Go module using the STM8S microcontroller.
