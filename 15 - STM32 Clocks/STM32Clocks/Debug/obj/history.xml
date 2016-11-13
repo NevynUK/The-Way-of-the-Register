@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -ffunction-sections -g -O3 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -D__FPU_USED -I..\..\..\..\..\..\MarksDocs\Software Development\STM8S and STM32\Project\The Way of The Register\15 - STM32 Clocks -I..\..\..\..\..\..\MarksDocs\Software Development\STM8S and STM32\Project\The Way of The Register\15 - STM32 Clocks\cmsis_boot -I..\..\..\..\..\..\MarksDocs\Software Development\STM8S and STM32\Project\The Way of The Register\15 - STM32 Clocks\cmsis_lib -I..\..\..\..\..\..\MarksDocs\Software Development\STM8S and STM32\Project\The Way of The Register\15 - STM32 Clocks\cmsis_lib\include -I..\..\..\..\..\..\MarksDocs\Software Development\STM8S and STM32\Project\The Way of The Register -I..\..\..\..\..\..\MarksDocs\Software Development\STM8S and STM32\Project\The Way of The Register\15 - STM32 Clocks\cmsis">
+      <target file="stm32f4xx_rcc.o" lastModified="13db07e7240">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13d964cf43f"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="13db07e733a">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="13db076eddb"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="13db07e72dd">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13d965255ab"/>
+      </target>
+      <target file="main.o" lastModified="13db07e7175">
+         <source file="..\..\..\main.c" lastModified="13db075969c"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="13db07e7108">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13d964cf455"/>
+      </target>
+   </processor>
+</history>

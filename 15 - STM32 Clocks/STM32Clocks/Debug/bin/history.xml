@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.3 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=STM32Clocks.map -O3 --gc-sections -LE:\Utils\CooCox\CoIDE\configuration\ProgramData\STM32Clocks -TE:\Utils\CooCox\CoIDE\configuration\ProgramData\STM32Clocks/arm-gcc-link.ld -g">
+      <target file="STM32Clocks.elf" lastModified="13db07e750f">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="13db07e7108"/>
+         <source file="..\obj\main.o" lastModified="13db07e7175"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="13db07e7240"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="13db07e72dd"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="13db07e733a"/>
+      </target>
+   </processor>
+</history>
