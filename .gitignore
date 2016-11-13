@@ -31,3 +31,13 @@
 # Debug files
 *.dSYM/
 *.su
+
+# IAR IDE Generated files
+*.pbi
+*.cout
+*.pbd
+*.browse
+*.bat
+*.dbgdt
+*.dni
+*.wsdt
