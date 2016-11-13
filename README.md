@@ -30,7 +30,7 @@ Enabling single byte communication between a Netduino Plus (acting as SPI master
 Enabling transmission of a buffer of data between the Netduino Plus and the STM8S.  This posts also shows how to use software slave chip select.
 ###[STM8S SPL Slave (Part 3) - Making a Netduino Go! Module](http://blog.mark-stevens.co.uk/?p=812)
 Building on the previous two posts, this post looks at what is necessary to build a Netduino Go module using the STM8S microcontroller.
-###[Transmitting Data Using the STM8S SPI Master Mode<](http://blog.mark-stevens.co.uk/?p=976")
+###[Transmitting Data Using the STM8S SPI Master Mode](http://blog.mark-stevens.co.uk/?p=976")
 Using the master mode of the SPI interface on the STM8S to control the brightness of 16 LEDs connected to the TLC5940 16-channel PWM controller IC.
 ###[Storing data in the data EEPROM area of the STM8S](http://blog.mark-stevens.co.uk/2013/09/storing-data-eeprom-stm8s/")
 Writing a small amount of data in the EEPROM area of the STM8S in order that the data can survive a device reset or loss of power.
